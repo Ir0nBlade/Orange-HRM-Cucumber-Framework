@@ -1,0 +1,97 @@
+2021-12-14 10:12:268 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 10:12:235 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 10:12:637 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 10:12:846 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 10:12:982 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 10:12:160 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 10:12:539 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 10:12:955 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 14:12:513 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 14:12:164 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 15:12:428 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 15:12:793 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 15:12:394 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 15:12:905 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 15:12:117 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 15:12:286 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 15:12:95 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 15:12:270 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 15:12:656 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 16:12:606 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 16:12:898 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 16:12:594 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 16:12:32 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 16:12:153 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 16:12:584 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 16:12:668 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 16:12:376 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 16:12:473 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 16:12:954 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 16:12:763 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 16:12:16 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 16:12:759 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 16:12:674 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 17:12:48 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 17:12:530 INFO  LoginPage :38 - Entering Username  [[ChromeDriver: chrome on WINDOWS (1692e9fbfda77c063099964d16a08ae7)] -> id: txtUsername]
+2021-12-14 17:12:565 INFO  LoginPage :40 - Entering Password  [[ChromeDriver: chrome on WINDOWS (1692e9fbfda77c063099964d16a08ae7)] -> id: txtPassword]
+2021-12-14 17:12:946 INFO  LoginPage :42 - Clicking on Login button  [[ChromeDriver: chrome on WINDOWS (1692e9fbfda77c063099964d16a08ae7)] -> id: btnLogin]
+2021-12-14 17:12:910 INFO  ViewSystemUsersPage :83 - Clicking on 'Admin' tab  [[ChromeDriver: chrome on WINDOWS (1692e9fbfda77c063099964d16a08ae7)] -> xpath: //b[contains(text(),'Admin')]]
+2021-12-14 17:12:931 INFO  ViewSystemUsersPage :78 - Verifying 'System User' text  [[ChromeDriver: chrome on WINDOWS (1692e9fbfda77c063099964d16a08ae7)] -> xpath: //h1[contains(text(),'System Users')]]
+2021-12-14 17:12:951 INFO  HomePage :53 - Verifying 'Welcome' message  [[ChromeDriver: chrome on WINDOWS (1692e9fbfda77c063099964d16a08ae7)] -> id: welcome]
+2021-12-14 17:12:547 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 17:12:187 INFO  LoginPage :38 - Entering Username  [[ChromeDriver: chrome on WINDOWS (976f9857c3cdd67c1eaaf02c6f95c33d)] -> id: txtUsername]
+2021-12-14 17:12:225 INFO  LoginPage :40 - Entering Password  [[ChromeDriver: chrome on WINDOWS (976f9857c3cdd67c1eaaf02c6f95c33d)] -> id: txtPassword]
+2021-12-14 17:12:646 INFO  LoginPage :42 - Clicking on Login button  [[ChromeDriver: chrome on WINDOWS (976f9857c3cdd67c1eaaf02c6f95c33d)] -> id: btnLogin]
+2021-12-14 17:12:631 INFO  ViewSystemUsersPage :83 - Clicking on 'Admin' tab  [[ChromeDriver: chrome on WINDOWS (976f9857c3cdd67c1eaaf02c6f95c33d)] -> xpath: //b[contains(text(),'Admin')]]
+2021-12-14 17:12:651 INFO  ViewSystemUsersPage :78 - Verifying 'System User' text  [[ChromeDriver: chrome on WINDOWS (976f9857c3cdd67c1eaaf02c6f95c33d)] -> xpath: //h1[contains(text(),'System Users')]]
+2021-12-14 17:12:678 INFO  HomePage :58 - Verifying 'Orange Hrm' logo  [[ChromeDriver: chrome on WINDOWS (976f9857c3cdd67c1eaaf02c6f95c33d)] -> xpath: //img[@alt='OrangeHRM']]
+2021-12-14 17:12:275 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 17:12:880 INFO  LoginPage :38 - Entering Username  [[ChromeDriver: chrome on WINDOWS (222a0f8734396f24502a56816e84c932)] -> id: txtUsername]
+2021-12-14 17:12:916 INFO  LoginPage :40 - Entering Password  [[ChromeDriver: chrome on WINDOWS (222a0f8734396f24502a56816e84c932)] -> id: txtPassword]
+2021-12-14 17:12:357 INFO  LoginPage :42 - Clicking on Login button  [[ChromeDriver: chrome on WINDOWS (222a0f8734396f24502a56816e84c932)] -> id: btnLogin]
+2021-12-14 17:12:374 INFO  ViewSystemUsersPage :83 - Clicking on 'Admin' tab  [[ChromeDriver: chrome on WINDOWS (222a0f8734396f24502a56816e84c932)] -> xpath: //b[contains(text(),'Admin')]]
+2021-12-14 17:12:395 INFO  ViewSystemUsersPage :78 - Verifying 'System User' text  [[ChromeDriver: chrome on WINDOWS (222a0f8734396f24502a56816e84c932)] -> xpath: //h1[contains(text(),'System Users')]]
+2021-12-14 17:12:427 INFO  HomePage :63 - Clicking on Profile logo  [[ChromeDriver: chrome on WINDOWS (222a0f8734396f24502a56816e84c932)] -> id: welcome]
+2021-12-14 17:12:977 INFO  HomePage :69 - Clicking on logout  [[ChromeDriver: chrome on WINDOWS (222a0f8734396f24502a56816e84c932)] -> xpath: //a[contains(text(),'Logout')]]
+2021-12-14 17:12:00 INFO  LoginPage :47 - Verifying 'LOGIN Panel' text  [[ChromeDriver: chrome on WINDOWS (222a0f8734396f24502a56816e84c932)] -> xpath: //div[text()='LOGIN Panel']]
+2021-12-14 17:12:517 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 17:12:872 INFO  LoginPage :38 - Entering Username  [[ChromeDriver: chrome on WINDOWS (b4a9d83c064162d5e118e415d2f394d1)] -> id: txtUsername]
+2021-12-14 17:12:907 INFO  LoginPage :40 - Entering Password  [[ChromeDriver: chrome on WINDOWS (b4a9d83c064162d5e118e415d2f394d1)] -> id: txtPassword]
+2021-12-14 17:12:374 INFO  LoginPage :42 - Clicking on Login button  [[ChromeDriver: chrome on WINDOWS (b4a9d83c064162d5e118e415d2f394d1)] -> id: btnLogin]
+2021-12-14 17:12:345 INFO  ViewSystemUsersPage :83 - Clicking on 'Admin' tab  [[ChromeDriver: chrome on WINDOWS (b4a9d83c064162d5e118e415d2f394d1)] -> xpath: //b[contains(text(),'Admin')]]
+2021-12-14 17:12:369 INFO  ViewSystemUsersPage :78 - Verifying 'System User' text  [[ChromeDriver: chrome on WINDOWS (b4a9d83c064162d5e118e415d2f394d1)] -> xpath: //h1[contains(text(),'System Users')]]
+2021-12-14 17:12:769 INFO  ViewSystemUsersPage :88 - Clicking on 'Add' button  [[ChromeDriver: chrome on WINDOWS (b4a9d83c064162d5e118e415d2f394d1)] -> id: btnAdd]
+2021-12-14 17:12:791 INFO  AddUserPage :80 - Verifying 'Add User' text is displayed  [[ChromeDriver: chrome on WINDOWS (b4a9d83c064162d5e118e415d2f394d1)] -> xpath: //h1[contains(text(),'Add User')]]
+2021-12-14 17:12:832 INFO  AddUserPage :75 - Clicking on Save button  [[ChromeDriver: chrome on WINDOWS (b4a9d83c064162d5e118e415d2f394d1)] -> xpath: //input[@id='btnSave']]
+2021-12-14 17:12:851 INFO  ViewSystemUsersPage :94 - Verifying 'Successfully Saved' message  [[ChromeDriver: chrome on WINDOWS (b4a9d83c064162d5e118e415d2f394d1)] -> xpath: //div[contains(text(),'Successfully Saved')]]
+2021-12-14 17:12:445 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 17:12:58 INFO  LoginPage :38 - Entering Username  [[ChromeDriver: chrome on WINDOWS (2a3ba995564a96ed50649e715ac62a07)] -> id: txtUsername]
+2021-12-14 17:12:93 INFO  LoginPage :40 - Entering Password  [[ChromeDriver: chrome on WINDOWS (2a3ba995564a96ed50649e715ac62a07)] -> id: txtPassword]
+2021-12-14 17:12:460 INFO  LoginPage :42 - Clicking on Login button  [[ChromeDriver: chrome on WINDOWS (2a3ba995564a96ed50649e715ac62a07)] -> id: btnLogin]
+2021-12-14 17:12:417 INFO  ViewSystemUsersPage :83 - Clicking on 'Admin' tab  [[ChromeDriver: chrome on WINDOWS (2a3ba995564a96ed50649e715ac62a07)] -> xpath: //b[contains(text(),'Admin')]]
+2021-12-14 17:12:436 INFO  ViewSystemUsersPage :78 - Verifying 'System User' text  [[ChromeDriver: chrome on WINDOWS (2a3ba995564a96ed50649e715ac62a07)] -> xpath: //h1[contains(text(),'System Users')]]
+2021-12-14 17:12:477 INFO  ViewSystemUsersPage :104 - Entering Username  [[ChromeDriver: chrome on WINDOWS (2a3ba995564a96ed50649e715ac62a07)] -> id: searchSystemUser_userName]
+2021-12-14 17:12:525 INFO  ViewSystemUsersPage :109 - Selecting User Role from dropdown  [[ChromeDriver: chrome on WINDOWS (2a3ba995564a96ed50649e715ac62a07)] -> id: searchSystemUser_userType]
+2021-12-14 17:12:570 INFO  ViewSystemUsersPage :114 - Selecting User Status from dropdown  [[ChromeDriver: chrome on WINDOWS (2a3ba995564a96ed50649e715ac62a07)] -> id: searchSystemUser_status]
+2021-12-14 17:12:886 INFO  ViewSystemUsersPage :99 - Clicking on Search button  [[ChromeDriver: chrome on WINDOWS (2a3ba995564a96ed50649e715ac62a07)] -> id: searchBtn]
+2021-12-14 17:12:792 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 17:12:416 INFO  LoginPage :38 - Entering Username  [[ChromeDriver: chrome on WINDOWS (6232228051b3c7d93bf550073a8a7167)] -> id: txtUsername]
+2021-12-14 17:12:451 INFO  LoginPage :40 - Entering Password  [[ChromeDriver: chrome on WINDOWS (6232228051b3c7d93bf550073a8a7167)] -> id: txtPassword]
+2021-12-14 17:12:932 INFO  LoginPage :42 - Clicking on Login button  [[ChromeDriver: chrome on WINDOWS (6232228051b3c7d93bf550073a8a7167)] -> id: btnLogin]
+2021-12-14 17:12:918 INFO  ViewSystemUsersPage :83 - Clicking on 'Admin' tab  [[ChromeDriver: chrome on WINDOWS (6232228051b3c7d93bf550073a8a7167)] -> xpath: //b[contains(text(),'Admin')]]
+2021-12-14 17:12:937 INFO  ViewSystemUsersPage :78 - Verifying 'System User' text  [[ChromeDriver: chrome on WINDOWS (6232228051b3c7d93bf550073a8a7167)] -> xpath: //h1[contains(text(),'System Users')]]
+2021-12-14 17:12:976 INFO  ViewSystemUsersPage :104 - Entering Username  [[ChromeDriver: chrome on WINDOWS (6232228051b3c7d93bf550073a8a7167)] -> id: searchSystemUser_userName]
+2021-12-14 17:12:19 INFO  ViewSystemUsersPage :109 - Selecting User Role from dropdown  [[ChromeDriver: chrome on WINDOWS (6232228051b3c7d93bf550073a8a7167)] -> id: searchSystemUser_userType]
+2021-12-14 17:12:62 INFO  ViewSystemUsersPage :114 - Selecting User Status from dropdown  [[ChromeDriver: chrome on WINDOWS (6232228051b3c7d93bf550073a8a7167)] -> id: searchSystemUser_status]
+2021-12-14 17:12:395 INFO  ViewSystemUsersPage :99 - Clicking on Search button  [[ChromeDriver: chrome on WINDOWS (6232228051b3c7d93bf550073a8a7167)] -> id: searchBtn]
+2021-12-14 17:12:269 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 17:12:477 INFO  LoginPage :38 - Entering Username  [[ChromeDriver: chrome on WINDOWS (65f101bba301d0f40550f20fd9a9fef5)] -> id: txtUsername]
+2021-12-14 17:12:509 INFO  LoginPage :40 - Entering Password  [[ChromeDriver: chrome on WINDOWS (65f101bba301d0f40550f20fd9a9fef5)] -> id: txtPassword]
+2021-12-14 17:12:350 INFO  LoginPage :42 - Clicking on Login button  [[ChromeDriver: chrome on WINDOWS (65f101bba301d0f40550f20fd9a9fef5)] -> id: btnLogin]
+2021-12-14 17:12:312 INFO  ViewSystemUsersPage :83 - Clicking on 'Admin' tab  [[ChromeDriver: chrome on WINDOWS (65f101bba301d0f40550f20fd9a9fef5)] -> xpath: //b[contains(text(),'Admin')]]
+2021-12-14 17:12:331 INFO  ViewSystemUsersPage :78 - Verifying 'System User' text  [[ChromeDriver: chrome on WINDOWS (65f101bba301d0f40550f20fd9a9fef5)] -> xpath: //h1[contains(text(),'System Users')]]
+2021-12-14 17:12:370 INFO  ViewSystemUsersPage :104 - Entering Username  [[ChromeDriver: chrome on WINDOWS (65f101bba301d0f40550f20fd9a9fef5)] -> id: searchSystemUser_userName]
+2021-12-14 17:12:412 INFO  ViewSystemUsersPage :109 - Selecting User Role from dropdown  [[ChromeDriver: chrome on WINDOWS (65f101bba301d0f40550f20fd9a9fef5)] -> id: searchSystemUser_userType]
+2021-12-14 17:12:455 INFO  ViewSystemUsersPage :114 - Selecting User Status from dropdown  [[ChromeDriver: chrome on WINDOWS (65f101bba301d0f40550f20fd9a9fef5)] -> id: searchSystemUser_status]
+2021-12-14 17:12:793 INFO  ViewSystemUsersPage :99 - Clicking on Search button  [[ChromeDriver: chrome on WINDOWS (65f101bba301d0f40550f20fd9a9fef5)] -> id: searchBtn]
+2021-12-14 17:12:815 INFO  ViewSystemUsersPage :144 - Verifying 'No Record Found' message  [[ChromeDriver: chrome on WINDOWS (65f101bba301d0f40550f20fd9a9fef5)] -> xpath: //td[contains(text(),'No Records Found')]]
