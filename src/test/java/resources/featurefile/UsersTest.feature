@@ -20,7 +20,7 @@ Feature: Users Test
     And   I click on 'Search' button
     Then  User is in search result
 
-  @Regression @Regression
+  @Regression
   Scenario: Verify that admin should delete the user successfully
     When  I enter 'Username' into username field
     And   I select 'User Role' from dropdown
